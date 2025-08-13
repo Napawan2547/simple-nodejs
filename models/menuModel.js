@@ -35,6 +35,18 @@ const menu = [
     difficulty: 'ง่าย',
     region: 'กลาง',
     image: '/images/pad-thai.jpg'
+  },
+  {
+    id: 4,
+    name: 'ข้าวไก่ทอด',
+    category: 'อาหารจานเดียว',
+    price: 60,
+    description: 'ข้าวสวยร้อนๆ เสิร์ฟพร้อมไก่ทอดกรอบนอกนุ่มใน',
+    ingredients: 'ข้าวสวย ไก่ทอด น้ำมันพืช เครื่องปรุงรส',
+    cookingTime: 15,
+    difficulty: 'ง่าย',
+    region: 'กลาง',
+    image: '/images/fried-chicken-rice.jpg'
   }
 ];
 
